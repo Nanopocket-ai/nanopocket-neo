@@ -23,7 +23,7 @@ Neo is NanoPocket's first diffusion video model, trained and tuned in-house, and
 - Expressions, light and movement come from your video
 - Holds up in low light, under stage light, with glasses and with hands near the face
 - Best quality costs the same as before, and a video that fails is refunded
-- Launch week: Neo videos cost 30% fewer credits, until Nov 28
+- Launch week: Neo videos cost 30% fewer credits, until Nov 27, 7 pm PT
 - About 6–7 minutes for a 10-second 1080p clip once it starts
 
 ## 🚀 Try it now
